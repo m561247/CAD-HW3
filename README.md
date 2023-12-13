@@ -2,13 +2,8 @@
 
 ## Part 1
 
-### Question 1
-
-[Insert your answer to question 1 here.]
+### for Question 1
 
 ## Part 2
 
-### Question 2
-
-[Insert your answer to question 2 here.]
-
+### for Question 2
